@@ -26,4 +26,7 @@ $(document).ready(function () {
   $("h4").on("click", function () {
     $("h4").css("color", "purple");
   });
+  $("h5").click(function () {
+    $(this).hide();
+  });
 });
