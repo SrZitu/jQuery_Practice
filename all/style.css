@@ -1,0 +1,17 @@
+.first-Style {
+  color: rgb(223, 87, 24);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 5rem;
+}
+.margin-50 {
+  margin: 5px;
+  padding: 10px;
+  background: turquoise;
+  display: inline-block;
+}
+.img {
+  width: 70%;
+  border: 1px solid black;
+  margin-top: 20px;
+  display: inline-block;
+}
