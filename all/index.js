@@ -22,4 +22,8 @@ $(document).ready(function () {
   $("h1").on("mouseover", function () {
     $("h1,h2").css("color", "purple");
   });
+
+  $("h4").on("click", function () {
+    $("h4").css("color", "purple");
+  });
 });
